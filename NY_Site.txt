@@ -1,0 +1,9 @@
+NEW YORK SITE NOTES
+Step One: Create a login and continued authentication system using given forms with firebase techniques and libraries.
+	- Add link to login_NY.html to index.html. COMPLETE
+	- Created FireBase Project NYSite.
+	- Only USER in database is ************@gmail.com PASSWORD is ***********.
+	- Deleted Social Media based login.
+	- Added form submission(post) to login and referenced authentication.php(empty).
+	- Added script to monitor authentication state(commented out).
+	
